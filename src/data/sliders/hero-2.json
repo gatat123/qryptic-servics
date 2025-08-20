@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "image": "https://cataas.com/cat/says/QUANTUM-TECH?fontSize=18&fontColor=white&width=800&height=600",
+            "alt": "Quantum Cat Technology",
+            "subtitle": "Innovation",
+            "title": "True <br>Random <span class=\"mil-accent\">Numbers</span> <br>from Quantum",
+            "link": "/services/qrng"
+        },
+        {
+            "image": "https://cataas.com/cat/says/BLOCKCHAIN-TRANS?fontSize=16&fontColor=white&width=800&height=600",
+            "alt": "Blockchain Cat Transparency",
+            "subtitle": "Transparency",
+            "title": "Verifiable <br><span class=\"mil-accent\">Blockchain</span> <br>Integration",
+            "link": "/services/blockchain"
+        },
+        {
+            "image": "https://cataas.com/cat/says/GLOBAL-SAAS?fontSize=18&fontColor=white&width=800&height=600",
+            "alt": "Global Cat Platform",
+            "subtitle": "Scalability",
+            "title": "Global<br><span class=\"mil-accent\">SaaS</span><br>Platform",
+            "link": "/services/api"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "settings": {
+        "siteName": "QRYPTIC",
+        "siteDescription": "Quantum Random Number Generation & Blockchain Technology",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "https://cataas.com/cat/says/QRYPTIC?fontSize=16&fontColor=silver&width=200&height=80",
+            "alt": "QRYPTIC Cat Logo"
+        },
+        "menu": []
+    },
+    "footer": {
+        "logo": {
+            "image": "https://cataas.com/cat/says/QRYPTIC?fontSize=16&fontColor=silver&width=200&height=80",
+            "alt": "QRYPTIC Cat Logo"
+        },
+        "copy": "© 2024 QRYPTIC (Powered Lab). All rights reserved.",
+        "menu": [
+            {
+                "label": "About",
+                "link": "/about"
+            },
+            {
+                "label": "Technology",
+                "link": "/services"
+            },
+            {
+                "label": "Team",
+                "link": "/team"
+            },
+            {
+                "label": "Roadmap",
+                "link": "/roadmap"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://github.com/louischoi0/fortunate-poc",
+            "title": "GitHub"
+        },
+        {
+            "link": "https://twitter.com/qryptic",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com/company/qryptic",
+            "title": "LinkedIn"
+        },
+        {
+            "link": "mailto:contact@qryptic.com",
+            "title": "Email"
+        }
+    ],
+    "projects": {
+        "categories": [
+            {
+                "name": "QRNG Research",
+                "slug": "qrng-research"
+            },
+            {
+                "name": "Blockchain Integration",
+                "slug": "blockchain"
+            },
+            {
+                "name": "Market Application",
+                "slug": "market-application"
+            }
+        ]
+    },
+    "team": {
+        "categories": [
+            {
+                "name": "Leadership",
+                "slug": "leadership"
+            },
+            {
+                "name": "Development",
+                "slug": "development"
+            },
+            {
+                "name": "Research",
+                "slug": "research"
+            },
+            {
+                "name": "Marketing",
+                "slug": "marketing"
+            }
+        ]
+    }
+}

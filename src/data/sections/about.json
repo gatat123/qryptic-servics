@@ -1,0 +1,45 @@
+{
+    "image": {
+        "url": "https://cataas.com/cat?width=800&height=600",
+        "alt": "QRYPTIC 양자 기술 (임시 이미지)"
+    },
+    "number": {
+        "value": "418",
+        "label": "<span class=\"mil-marker\">조원</span> 시장 <br/>기회"
+    },
+    "title": "<span class=\"mil-quantum-text\">난수 생성의</span> <span class=\"mil-metallic-accent\">혁신</span>",
+    "subtitle": "<span class=\"mil-display-2\">QRYPTIC</span> 소개",
+    "description": "QRYPTIC은 양자 컴퓨터 기반의 진정한 난수 생성(QRNG) 기술과 블록체인 기술을 결합하여 모든 확률 기반 애플리케이션에 투명하고 검증 가능한 난수를 제공합니다. 기존 컴퓨터의 유사 난수 문제를 해결하여 게임, 부동산 추첨, 티켓 예약 등에서 공정하고 투명한 결과를 보장합니다.",
+    "features": [
+        {
+            "title": "양자 기술",
+            "description": "유사 난수 알고리즘이 아닌 양자 컴퓨터 원리를 사용한 진정한 난수 생성"
+        },
+        {
+            "title": "블록체인 투명성",
+            "description": "모든 난수 생성 과정이 블록체인에 기록되어 완전한 투명성과 검증을 제공"
+        },
+        {
+            "title": "글로벌 적용",
+            "description": "게임, 부동산, 교통, 금융 서비스 등 전 세계 다양한 시장에 서비스 제공"
+        }
+    ],
+    "stats": [
+        {
+            "number": "418조원",
+            "label": "시장 규모"
+        },
+        {
+            "number": "27개국",
+            "label": "대상 국가"
+        },
+        {
+            "number": "2024년",
+            "label": "설립 연도"
+        }
+    ],
+    "button": {
+        "link": "https://github.com/louischoi0/fortunate-poc",
+        "label": "코드 보기"
+    }
+}

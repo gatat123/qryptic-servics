@@ -1,0 +1,134 @@
+{
+    "title": "<span class=\"mil-display-2\">혁신 팀을</span> <br><span class=\"mil-metallic-accent\">만나보세요</span>",
+    "description": "<p>우리는 난수 생성 혁신에 열정을 가진 양자 컴퓨팅 및 블록체인 기술 전문가들입니다. 다양한 R&D 중심 팀이 깊은 기술 전문성과 스타트업의 민첩성을 결합합니다.</p><p>함께 우리는 글로벌 시장에서 투명하고 검증 가능한 난수의 미래를 구축하고 있습니다.</p>",
+    "subtitle": "<span class=\"mil-thin\">Powered Lab이</span> 만드는 <br><span class=\"mil-quantum-text\">양자</span> 솔루션",
+    "button": {
+        "link": "#team",
+        "label": "더 알아보기"
+    },
+    "note": "<span class=\"mil-accent\">*</span> QRYPTIC 핵심 창립 팀",
+    "stats": {
+        "title": "팀 우수성",
+        "items": [
+            {
+                "number": "4",
+                "label": "핵심 팀 멤버"
+            },
+            {
+                "number": "7+",
+                "label": "년 통합 경험"
+            },
+            {
+                "number": "R&D",
+                "label": "연구 중심 스타트업"
+            }
+        ]
+    },
+    "col1_items": [
+        {
+            "image": "https://cataas.com/cat/says/CEO?fontSize=20&fontColor=white&width=400&height=400",
+            "name": "대표이사",
+            "role": "최고경영자 (서비스 기획, 7년 경력)",
+            "experience": "게임 개발 및 사용자 경험 최적화 분야에서 7년 이상의 경험을 보유한 B2C 서비스 개발 전문가",
+            "achievements": [
+                "7년간 글로벌 서비스 제공 최적화",
+                "월 활성 사용자 10만 명 이상으로 확장",
+                "전략 기획 및 서비스 아키텍처 주도"
+            ],
+            "social": [
+                {
+                    "icon": "fab fa-linkedin",
+                    "link": "https://linkedin.com/in/qryptic-ceo",
+                    "title": "linkedin"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com/louischoi0",
+                    "title": "github"
+                }
+            ]
+        },
+        {
+            "image": "https://cataas.com/cat/says/DEV?fontSize=20&fontColor=white&width=400&height=400", 
+            "name": "수석 개발자",
+            "role": "백엔드 프로그래머 (4년 경력)",
+            "experience": "1000시간 이상의 서비스 개발 경험을 보유한 블록체인 및 양자 난수 생성 전문가",
+            "achievements": [
+                "QRNG 및 블록체인 통합 시스템 개발",
+                "PoC 및 SaaS 서비스 아키텍처 구축",
+                "API 최적화 및 확장성 전문가",
+                "기술 아키텍처 결정 주도"
+            ],
+            "social": [
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com/louischoi0/fortunate-poc",
+                    "title": "github"
+                },
+                {
+                    "icon": "fab fa-linkedin",
+                    "link": "https://linkedin.com/in/qryptic-dev",
+                    "title": "linkedin"
+                }
+            ]
+        }
+    ],
+    "col2_items": [
+        {
+            "image": "https://cataas.com/cat/says/MKT?fontSize=20&fontColor=white&width=400&height=400",
+            "name": "마케팅 리드", 
+            "role": "마케팅 전문가 (2년 경력)",
+            "experience": "B2B SaaS 마케팅 및 해외 확장 전문 퍼포먼스 마케팅 전문가",
+            "achievements": [
+                "글로벌 확장 전략 개발",
+                "B2B SaaS 퍼포먼스 마케팅 전문성", 
+                "주요 플랫폼과 파트너십 구축",
+                "국제 시장 진출 기획"
+            ],
+            "social": [
+                {
+                    "icon": "fab fa-linkedin",
+                    "link": "https://linkedin.com/in/qryptic-marketing",
+                    "title": "linkedin"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com/qryptic",
+                    "title": "twitter"
+                }
+            ]
+        },
+        {
+            "image": "https://cataas.com/cat/says/RESEARCH?fontSize=18&fontColor=white&width=400&height=400",
+            "name": "양자 연구원",
+            "role": "연구개발 책임자",
+            "experience": "QRNG 응용 및 블록체인 통합에 중점을 둔 양자 컴퓨팅 연구 전문가",
+            "achievements": [
+                "양자 난수 생성 연구 주도",
+                "QRNG 응용 분야 논문 발표",
+                "블록체인-양자 기술 통합 전문가",
+                "학술 협력 및 파트너십 개발"
+            ],
+            "social": [
+                { 
+                    "icon": "fab fa-github",
+                    "link": "https://github.com/qryptic-research",
+                    "title": "github"
+                },
+                {
+                    "icon": "fas fa-graduation-cap",
+                    "link": "https://scholar.google.com/qryptic",
+                    "title": "scholar"
+                }
+            ]
+        }
+    ],
+    "company": {
+        "name": "Powered Lab",
+        "description": "QRYPTIC은 2024년에 설립된 양자 컴퓨팅 및 블록체인 기술 R&D 스타트업인 Powered Lab에서 개발되었습니다.",
+        "mission": "양자 기술과 블록체인 투명성을 통해 진정한 난수에 대한 접근을 민주화하는 것입니다.",
+        "founded": "2024",
+        "location": "대한민국",
+        "focus": "양자 난수 생성 및 블록체인 기술"
+    }
+}

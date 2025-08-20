@@ -1,0 +1,36 @@
+{
+    "bg_image": "https://placekitten.com/1920/1080",
+    "title": "<span class=\"mil-display-1 mil-accent-enhanced on-dark\">Quantum</span><br/><span class=\"mil-metallic-accent mil-display-2\">Random</span><br/><span class=\"mil-display-1 mil-accent-enhanced on-dark\">Revolution</span>",
+    "subtitle": "<span class=\"mil-quantum-text\">Future of Transparent Probability</span>",
+    "description": "QRYPTIC은 양자 난수 생성 기술과 블록체인을 결합하여 <br/>투명하고 신뢰할 수 있는 확률 시스템을 제공합니다.",
+    "button": {
+        "link": "#about",
+        "label": "시작하기"
+    },
+    "numbers": [
+        {
+            "value": "274",
+            "afterValue": "BS",
+            "label": "Market <br/>Size",
+            "description": "글로벌 랜덤 시장 규모"
+        },
+        {
+            "value": "418",
+            "afterValue": "조원",
+            "label": "Won Market <br/>Opportunity",
+            "description": "한국 시장 기회"
+        },
+        {
+            "value": "4",
+            "afterValue": "+",
+            "label": "Core Team <br/>Members",
+            "description": "핵심 개발진"
+        },
+        {
+            "value": "2024",
+            "afterValue": "",
+            "label": "Founded <br/>Year",
+            "description": "설립 연도"
+        }
+    ]
+}

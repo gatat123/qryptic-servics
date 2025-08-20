@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "image": "https://cataas.com/cat/says/CREATIVE?fontSize=16&fontColor=white&width=100&height=100",
+            "title": "Creativity",
+            "text": "The high creativity in our work staff, that makes us the best in finding solutions with great ideas for our clients."
+        },
+        {
+            "image": "https://cataas.com/cat/says/TECH?fontSize=18&fontColor=white&width=100&height=100",
+            "title": "Technology",
+            "text": "Our experts design, develop and search for the best and newest tools to achieve the objectives of each project."
+        },
+        {
+            "image": "https://cataas.com/cat/says/GREEN?fontSize=16&fontColor=white&width=100&height=100",
+            "title": "Sustainability",
+            "text": "The challenge of the future is coexistence with the environment, our strategy in each project is to achieve that goal."
+        }
+    ]
+}

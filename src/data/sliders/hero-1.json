@@ -1,0 +1,22 @@
+{
+    "title": "Revolutionizing <br><span class=\"mil-accent\">Randomness</span> with Quantum",
+    "subtitle": "Transparent, verifiable, and truly random",
+    "button": {
+        "link": "/services",
+        "label": "Explore Technology"
+    },
+    "items": [
+        {
+            "image": "https://cataas.com/cat/says/QUANTUM?fontSize=20&fontColor=white&width=800&height=600",
+            "alt": "Quantum Cat Laboratory"
+        },
+        {
+            "image": "https://cataas.com/cat/says/BLOCKCHAIN?fontSize=18&fontColor=white&width=800&height=600",
+            "alt": "Blockchain Cat Network"
+        },
+        {
+            "image": "https://cataas.com/cat/says/QRNG?fontSize=22&fontColor=white&width=800&height=600",
+            "alt": "QRNG Cat System"
+        }
+    ]
+}

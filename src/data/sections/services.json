@@ -1,0 +1,85 @@
+{
+    "title": "<span class=\"mil-quantum-text\">혁신적인</span> 기술",
+    "subtitle": "<span class=\"mil-metallic-accent mil-display-2\">서비스</span>",
+    "description": "QRYPTIC은 차세대 확률 검증을 위해 최첨단 양자 난수 생성 기술과 블록체인 투명성을 결합하여 제공합니다.",
+    "items": [
+        {
+            "icon": "https://cataas.com/cat/cute?width=100&height=100",
+            "num": "01.",
+            "title": "<span class=\"mil-tech-badge\">QRNG</span> 기술",
+            "text": "양자 컴퓨터 원리를 사용한 진정한 난수 생성. 유사 난수 알고리즘과 달리, 우리의 <span class=\"mil-highlight\">QRNG</span>는 양자역학 과정에서 진짜 무작위성을 제공합니다.",
+            "features": [
+                "양자 기반 진정한 난수",
+                "GitHub 오픈소스 PoC 제공",
+                "Python 기반 구현",
+                "쉬운 통합을 위한 SaaS 모델"
+            ],
+            "link": "#qrng"
+        },
+        {
+            "icon": "https://cataas.com/cat/orange?width=100&height=100",
+            "num": "02.",
+            "title": "블록체인 투명성",
+            "text": "모든 난수 생성 과정이 블록체인에 기록되어 완전한 투명성과 검증을 제공합니다. 사용자는 모든 확률 결과를 독립적으로 검증할 수 있습니다.",
+            "features": [
+                "불변 검증 기록",
+                "공개 감사 기능",
+                "스마트 컨트랙트 통합",
+                "실시간 투명성"
+            ],
+            "link": "#blockchain"
+        },
+        {
+            "icon": "https://cataas.com/cat/black?width=100&height=100",
+            "num": "03.",
+            "title": "<span class=\"mil-tech-badge\">API</span> 통합",
+            "text": "기존 시스템에 원활하게 통합할 수 있는 <span class=\"mil-highlight\">REST API</span> 엔드포인트. 우리의 <span class=\"mil-tech-badge\">B2B SaaS</span> 플랫폼으로 개발자와 회사가 쉽게 검증된 난수를 구현할 수 있습니다.",
+            "features": [
+                "RESTful API 엔드포인트",
+                "B2B SaaS 플랫폼",
+                "개발자 친화적 문서",
+                "확장 가능한 인프라"
+            ],
+            "link": "#api"
+        },
+        {
+            "icon": "https://cataas.com/cat/white?width=100&height=100",
+            "num": "04.",
+            "title": "오픈 이노베이션",
+            "text": "오픈소스 개발을 통한 투명성과 혁신에 전념하고 있습니다. 우리의 개념 증명은 커뮤니티 검토와 기여를 위해 GitHub에 공개되어 있습니다.",
+            "features": [
+                "오픈소스 PoC 제공",
+                "커뮤니티 주도 개발",
+                "학술 협력",
+                "연구 논문 발표"
+            ],
+            "link": "https://github.com/louischoi0/fortunate-poc"
+        }
+    ],
+    "marketApplications": {
+        "title": "시장 적용 분야",
+        "description": "우리 기술은 다양한 산업 분야에서 검증 가능한 난수에 대한 글로벌 요구를 해결합니다",
+        "sectors": [
+            {
+                "name": "게임 산업",
+                "description": "공정하고 투명한 게임 결과",
+                "size": "글로벌 게임 시장"
+            },
+            {
+                "name": "부동산 추첨",
+                "description": "투명한 부동산 배정 시스템",
+                "size": "부동산 추첨 시스템"
+            },
+            {
+                "name": "교통 서비스",
+                "description": "공정한 티켓 분배 및 좌석 배정",
+                "size": "예약 및 예매 시스템"
+            },
+            {
+                "name": "금융 서비스",
+                "description": "암호화 애플리케이션을 위한 보안 난수 생성",
+                "size": "핀테크 및 은행 부문"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "image": "https://cataas.com/cat/says/PARTNER1?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 1"
+        },
+        {
+            "image": "https://cataas.com/cat/says/PARTNER2?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 2"
+        },
+        {
+            "image": "https://cataas.com/cat/says/PARTNER3?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 3"
+        },
+        {
+            "image": "https://cataas.com/cat/says/PARTNER4?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 4"
+        },
+        {
+            "image": "https://cataas.com/cat/says/PARTNER5?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 5"
+        },
+        {
+            "image": "https://cataas.com/cat/says/PARTNER6?fontSize=18&fontColor=gray&width=200&height=100",
+            "alt": "Cat Partner 6"
+        }
+    ]
+}
