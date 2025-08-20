@@ -48,7 +48,7 @@ const AboutSection = () => {
                 </div>
             </section>
 
-            <ModalVideo channel='youtube' isOpen={isOpen} videoId={Data.button.link.replace("https://www.youtube.com/watch?v=", "")} onClose={() => setOpen(false)} />
+            <ModalVideo channel='youtube' isOpen={isOpen} videoId={Data.button.link.replace("https://youtu.be/", "").split("?")[0]} onClose={() => setOpen(false)} />
             {/* about end */}
         </>
     );
